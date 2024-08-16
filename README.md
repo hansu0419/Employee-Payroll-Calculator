@@ -34,11 +34,3 @@ To execute the script, follow these steps:
    ```R
    main()
    ```
-
-### Functionality Overview
-
-- **`input_time_data()`**: Update employee time data for a specific day.
-- **`calculate_daily_pay()`**: Compute daily pay based on time data and day type.
-- **`display_daily_details()`**: Show detailed daily pay calculations and work hours.
-- **`calculate_weekly_pay()`**: Summarize total weekly pay.
-- **`main()`**: Provides an interactive menu for managing and calculating payroll.
